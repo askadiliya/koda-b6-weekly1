@@ -1,7 +1,7 @@
 {
   "name": "koda-b6-weekly1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplikasi Kasir Mcd",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
